@@ -1,16 +1,6 @@
 # TDD-Calculator
 A simple calculator using TDD
 
-# Running the program 
-
-# Option 1:
-For Linux users
-chmod 777 run.sh
-sudo ./run.sh
-
-# Option 2:
-Run the .sh file
-
 Compile the test. On Linux or MacOS
 javac -cp .:junit-4.12.jar CalculatorTest.java
 
