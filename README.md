@@ -3,12 +3,12 @@ A simple calculator using TDD
 
 # Running the program 
 
-# Option 1:
+Option 1:
 For Linux users
 chmod 777 run.sh
 sudo ./run.sh
 
-# Option 2:
+Option 2:
 Run the .sh file
 
 Compile the test. On Linux or MacOS
